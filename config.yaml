@@ -1,0 +1,13 @@
+pre_model_path: C:\Users\administrator\.cache\torch\sentence_transformers\sentence-transformers_paraphrase-multilingual-mpnet-base-v2
+tune_model_path: D:\workspace\20211029_AI\fine_tune\training_stsbenchmark_continue_training-paraphrase-multilingual-mpnet-base-v2
+tokenizer_path: D:\workspace\20211029_AI\fine_tune\training_stsbenchmark_continue_training-paraphrase-multilingual-mpnet-base-v2
+
+onnx_path: D:\workspace\20211029_AI\fine_tune\onnx3\paraphrase-multilingual-mpnet-base-v2.onnx
+pb_path: D:\workspace\20211029_AI\fine_tune\pb3\paraphrase-multilingual-mpnet-base-v2.pb
+
+data_path: D:\workspace\20211029_AI\tmp
+base_data_path: D:\workspace\20211029_AI\test\corpus\base_train.csv
+
+index_path: D:\workspace\20211029_AI\tmp\index
+
+tf_serving_url: 10.225.21.222:8501
